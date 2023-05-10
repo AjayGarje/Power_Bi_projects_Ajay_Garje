@@ -1,13 +1,17 @@
-# Power_Bi_projects_Ajay_Garje
-Following are the peojects created by me to share the visualization data
+# Power Bi projects Ajay Garje (For how to download files directly)
+## Following are the peojects created by me to share the visualization data
 To open project please follow the Steps to open and analize the projects 
-  Firstly open the project folder that you require 
-  you can download the dataset by clicking on it and then clicking on "View Raw" option that I have used to create the project so you can create your own
-  you can see a video about the project working using "View Raw" option which will download the video
-  You can download the .PBIX file from "View Raw" option (Power Bi must be installed in the device)
-Certainly! Here's the same README file formatted in the desired format using Markdown syntax:
+  - Firstly open the project folder that you require 
+  - you can download the dataset by clicking on it and then clicking on "View Raw" option that I have used to create the project so you can create your own
+  - you can see a video about the project working using "View Raw" option which will download the video
+  - You can download the .PBIX file from "View Raw" option (Power Bi must be installed in the device)
 
-# Power BI Projects by Ajay Garje
+
+
+
+
+
+# Power BI Projects by Ajay Garje (For know how to clone and use)
 
 Welcome to the Power BI Projects repository by Ajay Garje. This repository contains a collection of Power BI projects created by Ajay Garje, showcasing his expertise in data analysis, visualization, and reporting.
 
